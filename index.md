@@ -1,1 +1,2 @@
-# CIT-281-Project#1
+### Project#1
+Description: The perpose of this project was to teach us how to use the CLI. Specifically to learn how to create folders, list them in a tree-like structure, use the ping command, and practice using the break keyboard sequence. We also had to code a javascript function which returned to the console a string of random length between 5 - 25 characters (range inclusive) in length, that consists of all random lowercase letters from the English alphabet. 
